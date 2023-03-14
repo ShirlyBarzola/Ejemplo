@@ -7,3 +7,7 @@ Girl Power
 Ada Lovelace
 
  ![Image text](https://github.com/ShirlyBarzola/Ejemplo/blob/main/assets/mujeres-programadoras.jpeg)
+ 
+ Unicef Logo
+ 
+ ![Image text](https://github.com/ShirlyBarzola/Ejemplo/blob/main/assets/unicef_twitter1.png)
